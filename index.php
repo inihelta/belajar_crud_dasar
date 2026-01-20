@@ -10,6 +10,8 @@
 
 <body>
     <h1>halaman pertama</h1>
+    <br>
+    <a href="tambah.php">+ Tambah Data</a>
     <table border="1">
         <tr>
             <th>No.</th>

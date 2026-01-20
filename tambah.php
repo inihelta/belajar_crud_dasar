@@ -10,6 +10,7 @@
 <body>
     <h1>Halaman Tambah Data</h1>
     <br>
+    <a href="index.php">kembali ke halaman utama</a>
     <form action="tambah_proses.php" method="post">
         <table>
             <tr>
